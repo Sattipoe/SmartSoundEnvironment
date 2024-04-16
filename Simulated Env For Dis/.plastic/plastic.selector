@@ -1,0 +1,4 @@
+repository "Simulated Env For Dis@sattipoe11@cloud"
+  path "/"
+    br "/main"
+    co "/main"
